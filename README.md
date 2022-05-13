@@ -226,7 +226,7 @@
             <img src="https://avatars.githubusercontent.com/dayaeLee777" width="140px" /> <br><br> 이다예 <br>(Full-stack) </a> <br></td>
     </tr>
     <tr>
-      <td align="center">UI/UX<br/>Vue<br/><br>Firebase</br><br>REST API</br></td>
+      <td align="center">UI/UX<br/>Vue<br/>Firebase</br>REST API</br></td>
         <td align="center">UI/UX<br/>Vue<br/>Firebase</td>
         <td align="center">UI/UX<br/>Vue<br/>Blockchain<br/>REST API</td>
         <td align="center">REST API<br/>UI/UX<br/>Vue<br/></td>
